@@ -1,0 +1,42 @@
+Interactive shell
+
+-> Runda: 1
+Strąconych kręgli rzut pierwszy: 4
+Strąconych kręgli rzut drugi: 3
+-> Runda: 2
+Strąconych kręgli rzut pierwszy: 4
+Strąconych kręgli rzut drugi: 3
+-> Runda: 3
+Strąconych kręgli rzut pierwszy: 4
+Strąconych kręgli rzut drugi: 3
+-> Runda: 4
+Strąconych kręgli rzut pierwszy: 4
+Strąconych kręgli rzut drugi: 3
+-> Runda: 5
+Strąconych kręgli rzut pierwszy: 4
+Strąconych kręgli rzut drugi: 3
+-> Runda: 6
+Strąconych kręgli rzut pierwszy: 44
+[WARNING] Błędnie podano wartosc pierwszego rzutu (przekroczono 10 kregli) - wartość została poprawiona na '10'
+-> Runda: 7
+Strąconych kręgli rzut pierwszy: 4
+Strąconych kręgli rzut drugi: 5
+-> Runda: 8
+Strąconych kręgli rzut pierwszy: 5
+Strąconych kręgli rzut drugi: 4
+-> Runda: 9
+Strąconych kręgli rzut pierwszy: 4
+Strąconych kręgli rzut drugi: 5
+
+Gra zakończona.
+Runda 1 4|3 => 0
+Runda 2 4|3 => 7
+Runda 3 4|3 => 14
+Runda 4 4|3 => 21
+Runda 5 4|3 => 28
+Runda 6 10|0 => 35
+Runda 7 4|5 => 45
+Runda 8 5|4 => 58
+Runda 9 4|5 => 71
+
+Wynik końcowy: 80
